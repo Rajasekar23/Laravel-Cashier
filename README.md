@@ -11,17 +11,17 @@
 
 Please run the below commands to start the project
 
-copy .env.example to .env
+- copy .env.example to .env
 
-composer install
+- composer install
 
-php artisan key:generate
+- php artisan key:generate
 
-php artisan migrate
+- php artisan migrate
 
-php artisan db:seed --class=DatabaseSeeder
+- php artisan db:seed --class=DatabaseSeeder
 
-npm install and npm run-dev
+- npm install and npm run-dev
 
 ## About Laravel
 
