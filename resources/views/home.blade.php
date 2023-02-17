@@ -9,7 +9,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12">
-                        <div class="logo"><a href="index.html"><img src="{{ Vite::asset('resources/images/logo.png') }}"></a></div>
+                        <div class="logo"><a href="#"><img src="{{ Vite::asset('resources/images/logo.png') }}" style="visibility:hidden;"></a></div>
                     </div>
                 </div>
             </div>
